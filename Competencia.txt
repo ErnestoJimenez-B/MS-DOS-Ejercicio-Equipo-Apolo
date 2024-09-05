@@ -1,0 +1,2 @@
+Para la segunda parte del código, en lugar de ordenar de menor a mayor, se va a codificar una función extra que reemplaze a 'esperando', la cual ordene los números de MAYOR a MENOR 
+y los imprima de la misma manera que la primera opción.
